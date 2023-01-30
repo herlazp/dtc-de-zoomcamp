@@ -18,6 +18,7 @@ terraform apply
 
 Paste the output of this command into the homework submission form.
 
+```
 var.project
   herlazp-dtc-de-375920
 
@@ -122,6 +123,8 @@ google_bigquery_dataset.dataset: Creating...
 google_storage_bucket.data-lake-bucket: Creating...
 google_storage_bucket.data-lake-bucket: Creation complete after 1s [id=dtc_data_lake_herlazp-dtc-de-375920]
 google_bigquery_dataset.dataset: Creation complete after 2s [id=projects/herlazp-dtc-de-375920/datasets/trips_data_all]
+```
+
 ## Submitting the solutions
 
 * Form for submitting: [form](https://forms.gle/S57Xs3HL9nB3YTzj9)
